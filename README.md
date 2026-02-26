@@ -1,2 +1,2 @@
 # open-source
-JaffPay open source tron trc20 no network fees wallet
+JaffPay open source non-custodial tron trc20 no network fees wallet
